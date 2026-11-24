@@ -23,5 +23,4 @@ The collection provides standardized experimental and simulated data across four
 │   ├── 02_mixture_density.csv      
 │   ├── 03_bubble_point.csv         
 │   └── 04_viscosity.csv            
-├── LICENSE
 └── README.md
