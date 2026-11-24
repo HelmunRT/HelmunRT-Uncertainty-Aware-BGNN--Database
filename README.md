@@ -7,16 +7,3 @@ physical Property Prediction in Aqueous Amine Carbon Capture
 Systems"** by Helmun S. Rodriguez Toledo, Héctor J. Hortúa, Gustavo A. Orozco (2026).
 
 The collection provides standardized experimental and simulated data across four key thermophysical properties of aqueous amine solutions: **CO₂ solubility**, **mixture density**, **bubble point pressure**, and **viscosity**.
-
----
-
-## Repository Structure
-
-```text
-.
-├── data/
-│   ├── 01_co2_solubility.csv       
-│   ├── 02_mixture_density.csv      
-│   ├── 03_bubble_point.csv         
-│   └── 04_viscosity.csv            
-└── README.md
